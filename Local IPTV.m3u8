@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0 tvg-language="English" tvg-logo="https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png" group-title="Sports", UEFA Champions League 1
+https://football.localiptv.tk/UEFA_Champions_League_CHANNEL_1.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png" group-title="Sports", UEFA Champions League 2
+https://football.localiptv.tk/UEFA_Champions_League_CHANNEL_2.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png" group-title="Sports", UEFA Champions League 3
+https://football.localiptv.tk/UEFA_Champions_League_CHANNEL_3.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png" group-title="Sports", UEFA Champions League 4
+https://football.localiptv.tk/UEFA_Champions_League_CHANNEL_4.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png" group-title="Sports", UEFA Champions League 5
+https://football.localiptv.tk/UEFA_Champions_League_CHANNEL_5.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://commons.wikimedia.org/wiki/Category:Cricket_logos#/media/File:Cricket-hit-wall-sticker1.png" group-title="Sports", Cricket Series 1
+https://cricket.localiptv.tk/CRICKET_SERIES_1_LIVE1.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://commons.wikimedia.org/wiki/Category:Cricket_logos#/media/File:Cricket-hit-wall-sticker1.png" group-title="Sports", Cricket Series 2
+https://cricket.localiptv.tk/CRICKET_SERIES_2_LIVE1.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="Sports", Premier League 1
+https://football.localiptv.tk/PREMIER_LEAGUE_LIVE_1.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png" group-title="Sports", LIGUE-1 1
+https://football-localiptv.ml/Ligue_1_LIVE_1.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png" group-title="Sports", LIGUE-1 2
+https://football-localiptv.ml/Ligue_1_LIVE_2.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://toppng.com/uploads/preview/uefa-europa-league-logo-uefa-champions-league-sports-uefa-europa-league-logo-11563269892o6jganpiwz.png" group-title="Sports", UEFA Europa League 1
+https://football.localiptv.tk/Europa_League/CHANNEL_1.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://toppng.com/uploads/preview/uefa-europa-league-logo-uefa-champions-league-sports-uefa-europa-league-logo-11563269892o6jganpiwz.png" group-title="Sports", UEFA Europa League 2
+https://football.localiptv.tk/Europa_League/CHANNEL_2.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://toppng.com/uploads/preview/uefa-europa-league-logo-uefa-champions-league-sports-uefa-europa-league-logo-11563269892o6jganpiwz.png" group-title="Sports", UEFA Europa League 3
+https://football.localiptv.tk/Europa_League/CHANNEL_3.m3u8
