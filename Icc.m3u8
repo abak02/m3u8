@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/asiantv.png" group-title="Bangladeshi",1.Asian TV
+http://10.16.100.203:8082/bangla/@sianhd_1stop.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/atnbangla.png" group-title="Bangladeshi",2.ATN Bangla
+http://10.16.100.203:8082/bangla/aTnb@ngla.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/atnnews.png" group-title="Bangladeshi",3.ATN News
+http://10.16.100.203:8082/bangla/ATNews.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/banglatv.png" group-title="Bangladeshi",4.Bangla TV
+http://10.16.100.245/hindi/bangglaattvvvv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/banglavision.png" group-title="Bangladeshi",5.BanglaVison
+http://10.16.100.203:8082/bangla/banglavision_1$top.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/bijoytv(1).png" group-title="Bangladeshi",6.Bijoy TV
+http://10.16.100.203:8082/bangla/bij0ytv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/boishakhi(1).png" group-title="Bangladeshi",7.Boishakhi TV
+http://10.16.100.203:8082/bangla/boishakhi.m3u8
+#EXTINF:0 tvg-language="Bangla"  group-title="Bangladeshi",BTV
+http://10.16.100.203:8082/bangla/btvnational.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/channel24.png" group-title="Bangladeshi",8.Channel 24
+http://10.16.100.245/hindi/chennel24.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/channel9(1).png" group-title="Bangladeshi",9.Channel 9
+http://10.16.100.245/hindi/9channell.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/channeli.png" group-title="Bangladeshi",10.Channel I
+http://10.16.100.203:8082/bangla/cheneli.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/dbcnews(1).png" group-title="Bangladeshi",11.DBC News
+http://10.16.100.203:8082/bangla/dbcnws.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/deeptotv.png" group-title="Bangladeshi",12.Deepto TV
+http://10.16.100.203:8082/bangla/deepto.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/deshtv(1).png" group-title="Bangladeshi",13.Desh TV
+http://10.16.100.205:8082/bangla/dESh_tv_local_BD.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/ekattortv.png" group-title="Bangladeshi",14.Ekattor TV
+http://10.16.100.207:8088/sports/71ekattoortv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/ekusheytv(1).png" group-title="Bangladeshi",15.ETV
+http://10.16.100.203:8082/bangla/etvbangla.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/gaanbangla(1).png" group-title="Bangladeshi",16.Gaan Bangla
+http://10.16.100.203:8082/bangla/ganbangla.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/gazitv(8).png" group-title="Bangladeshi",17.Gazi TV
+http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/gazitv(8).png" group-title="Bangladeshi",17.Gazi TV
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/gazitv(8).png" group-title="Bangladeshi",17.Gazi TV
+http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/jamuna.png" group-title="Bangladeshi",18.Jamuna TV
+http://10.16.100.211/sports/jamuna.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/" group-title="Bangladeshi",19.Masranga TV
+http://10.16.100.245/hindi/masrangaaa.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/mohona(3).png" group-title="Bangladeshi",19.Mohona TV
+http://10.16.100.245/hindi/mohnatV.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/mytv.jpg" group-title="Bangladeshi",20.My TV
+http://10.16.100.245/hindi/myytvvhd.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/ntv(1).png" group-title="Bangladeshi",21.NTV
+http://10.16.100.245/hindi/nnnnnntv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/nagorik.png" group-title="Bangladeshi",22.Nagorik TV
+http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/news24(1).png" group-title="Bangladeshi",23.News 24
+http://10.16.100.245/hindi/newwws2224.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/rtv.png" group-title="Bangladeshi",24.RTV
+http://10.16.100.245/hindi/rtttv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/somoy(1).png" group-title="Bangladeshi",25.Somoy TV
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/tsports(2).png" group-title="Bangladeshi",26.T Sports
+http://10.16.100.207:8088/sports/t$sports_loacal@.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/tsports(2).png" group-title="Bangladeshi",26.T Sports
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="http://10.16.100.244/files/tsports(2).png" group-title="Bangladeshi",26.T Sports
+http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+#EXTINF:0 tvg-language="Sports" tvg-logo="http://10.16.100.244/files/ptvsports.png" group-title="Sports",PTV
+http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
+#EXTINF:0 tvg-language="Sports" tvg-logo="http://10.16.100.244/files/sonysixhd(4).png" group-title="Sports",Sony Six HD
+http://10.16.100.203:8082/bangla/sonysix6.m3u8
+#EXTINF:0 tvg-language="Sports" tvg-logo="http://10.16.100.244/files/sonyten2hd(1).png" group-title="Sports",Sony Ten 2
+http://10.16.100.207:8088/sports/ten2hd_local.m3u8
+#EXTINF:0 tvg-language="Sports" tvg-logo="http://10.16.100.244/files/sonyten3hd.png" group-title="Sports",Sony Ten 3
+http://10.16.100.203:8082/bangla/sonyten3.m3u8
+#EXTINF:0 tvg-language="Sports" tvg-logo="http://10.16.100.244/files/starsports1hd.png" group-title="Sports",Star Sports 1 
+http://10.16.100.207:8088/sports/StarSp0rtS1onehd.m3u8
+#EXTINF:0 tvg-language="Sports" tvg-logo="http://10.16.100.244/files/starsports2hd.png" group-title="Sports",Star Sports 2 
+http://10.16.100.207:8088/sports/starSports2Tw0hd_local.m3u8
+#EXTINF:0 tvg-language="Sports" tvg-logo="http://10.16.100.244/files/starsportsselect1hd(1).png" group-title="Sports",Star Sports Select 1
+http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
+#EXTINF:0 tvg-language="Sports" tvg-logo="http://10.16.100.244/files/starsportsselect2hd.png" group-title="Sports",Star Sports Select 2
+http://10.16.100.207:8088/sports/sportselect2_hd.m3u8
+
+
