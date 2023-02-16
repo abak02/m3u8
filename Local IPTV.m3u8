@@ -21,6 +21,8 @@ https://cricket.localiptv.tk/CRICKET_SERIES_3_LIVE_1.m3u8
 https://cricket.localiptv.tk/CRICKET_SERIES_3_LIVE_2.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="https://commons.wikimedia.org/wiki/Category:Cricket_logos#/media/File:Cricket-hit-wall-sticker1.png" group-title="Sports", PSL
 https://cricket.localiptv.tk/HBL_PSL_23/SONY_LIV_LINK1.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://commons.wikimedia.org/wiki/Category:Cricket_logos#/media/File:Cricket-hit-wall-sticker1.png" group-title="Sports", PSL 2
+https://cricket.localiptv.tk/HBL_PSL_23/SONY_LIV_LINK2.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="Sports", Premier League 1
 https://football.localiptv.tk/PREMIER_LEAGUE_LIVE_1.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png" group-title="Sports", Premier League 2
