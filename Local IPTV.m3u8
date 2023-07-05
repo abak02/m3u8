@@ -37,10 +37,6 @@ https://football.localiptv.tk/Europa_League/CHANNEL_1.m3u8
 https://football.localiptv.tk/Europa_League/CHANNEL_2.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="https://toppng.com/uploads/preview/uefa-europa-league-logo-uefa-champions-league-sports-uefa-europa-league-logo-11563269892o6jganpiwz.png" group-title="Sports", UEFA Europa League 3
 https://football.localiptv.tk/Europa_League/CHANNEL_3.m3u8
-#EXTINF:0 tvg-language="English" tvg-logo="https://assets.laliga.com/assets/logos/laliga-h/laliga-h-1200x1200.png" group-title="Sports", La Liga 1
-https://football.localiptv.tk/LaLiga_CHANNEL_1.m3u8
-#EXTINF:0 tvg-language="English" tvg-logo="https://assets.laliga.com/assets/logos/laliga-h/laliga-h-1200x1200.png" group-title="Sports", La Liga 2
-https://football.localiptv.tk/LaLiga_CHANNEL_2.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="https://en.wikipedia.org/wiki/Bundesliga#/media/File:Bundesliga_logo_(2017).svg" group-title="Sports", Bundesliga 1
 https://football.localiptv.tk/Bundesliga_CHANNEL_1.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="" group-title="Sports", Saudi Pro League
@@ -49,3 +45,9 @@ https://dai.google.com/ssai/event/1li4LhDZQ8SKgnmS9wI7-Q/master.m3u8
 https://sportscentral.ml/UEFA_Champions_League_CHANNEL_1.m3u8
 #EXTINF:0 tvg-language="English" tvg-logo="https://download.logo.wine/logo/UEFA_Champions_League/UEFA_Champions_League-Logo.wine.png" group-title="Sports", UEFA Champions League 2(Working)
 https://sportscentral.ml/UEFA_Champions_League_CHANNEL_2.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://commons.wikimedia.org/wiki/Category:Cricket_logos#/media/File:Cricket-hit-wall-sticker1.png" group-title="Sports", T Sports
+https://cricket.localiptv.tk/CRICKET_SERIES_1_LIVE_2.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://commons.wikimedia.org/wiki/Category:Cricket_logos#/media/File:Cricket-hit-wall-sticker1.png" group-title="Sports", RTA Sports
+https://cricket.localiptv.tk/CRICKET_SERIES_1_LIVE_3.m3u8
+#EXTINF:0 tvg-language="English" tvg-logo="https://commons.wikimedia.org/wiki/Category:Cricket_logos#/media/File:Cricket-hit-wall-sticker1.png" group-title="Sports", YouTube
+https://www.youtube.com/live/WZ94u5-sDnc?feature=share
