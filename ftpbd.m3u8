@@ -11,19 +11,19 @@ http://otv.ftpbd.net/streams/204/index.m3u8
 http://otv.ftpbd.net/streams/205/index.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", Channel 206
 http://otv.ftpbd.net/streams/206/index.m3u8
-#EXTINF:0 tvg-language="English" group-title="Sports", Channel 207
+#EXTINF:0 tvg-language="English" group-title="Sports", Star Sports Select 2
 http://otv.ftpbd.net/streams/207/index.m3u8
-#EXTINF:0 tvg-language="English" group-title="Sports", Channel 208
+#EXTINF:0 tvg-language="English" group-title="Sports", HBO
 http://otv.ftpbd.net/streams/208/index.m3u8
-#EXTINF:0 tvg-language="English" group-title="Sports", Channel 209
+#EXTINF:0 tvg-language="English" group-title="Sports", Star Sports Select 1
 http://otv.ftpbd.net/streams/209/index.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", Channel 210
 http://otv.ftpbd.net/streams/210/index.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", Channel 211
 http://otv.ftpbd.net/streams/211/index.m3u8
-#EXTINF:0 tvg-language="English" group-title="Sports", Channel 212
+#EXTINF:0 tvg-language="English" group-title="Sports", GTV HD
 http://otv.ftpbd.net/streams/212/index.m3u8
-#EXTINF:0 tvg-language="English" group-title="Sports", Channel 213
+#EXTINF:0 tvg-language="English" group-title="Sports", Willow XTRA HD
 http://otv.ftpbd.net/streams/213/index.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", Channel 214
 http://otv.ftpbd.net/streams/214/index.m3u8
@@ -49,9 +49,9 @@ http://otv.ftpbd.net/streams/223/index.m3u8
 http://otv.ftpbd.net/streams/224/index.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", Channel 225
 http://otv.ftpbd.net/streams/225/index.m3u8
-#EXTINF:0 tvg-language="English" group-title="Sports", Channel 226
+#EXTINF:0 tvg-language="English" group-title="Sports", Super Cricket
 http://otv.ftpbd.net/streams/226/index.m3u8
-#EXTINF:0 tvg-language="English" group-title="Sports", Channel 227
+#EXTINF:0 tvg-language="English" group-title="Sports", TNT Sports 1
 http://otv.ftpbd.net/streams/227/index.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", Channel 228
 http://otv.ftpbd.net/streams/228/index.m3u8
