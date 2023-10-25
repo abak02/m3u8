@@ -70,10 +70,10 @@ http://10.16.100.213:8080/hls/tsports.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", Star Sports Select 1
 http://10.16.100.206:8080/hls/StarsportsSelect1hd.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", T Sports
-http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8?token=6d23ccd39848df9a619a349e1ac6b045229b0a6e-e75e5b1e26d45bc0e0297e5a25b373cc-1698230456-1698219656
+http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8?token=9750e3c3c3187b24f1d4b30ce114f8384338feb2-c919c5cb2c56e62d18896187063030e6-1698245800-1698235000
 #EXTINF:0 tvg-language="English" group-title="Sports", GTV HD
-http://otv.ftpbd.net:8082/Gazi-Tv-HD/tracks-v1a1/mono.m3u8?token=da88e8d5f53af537ac2bdc7d3378814b05b90f0b-a5e89beb5ffb4165e27734c9114181ea-1698230530-1698219730
+http://otv.ftpbd.net:8082/Gazi-Tv-HD/tracks-v1a1/mono.m3u8?token=3798ae76c34b2c5d4d136330c74ad708afca0cc9-bb52727a04dc1fb68c26bbc9d547f310-1698245829-1698235029
 #EXTINF:0 tvg-language="English" group-title="Sports", Star Sports 1
-http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8?token=f0744b79ae710fc13cd47cd2e23de3d00ea69557-e675e300012eb36725e002635ee453b1-1698230561-1698219761
+http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8?token=9d3df3c97295376cbddf0cb39a529b5fac11d624-794fa7a5cb3472204a8a2c110297620d-1698245860-1698235060
 #EXTINF:0 tvg-language="English" group-title="Sports", Willow Xtra
 http://otv.ftpbd.net:8082/Willow/tracks-v1a1/mono.m3u8?token=f7ef3978c99847fdcc4833892acf3062db4eeb5d-d169c3b8f3555a3ccce5c16780e94099-1698219671-1698208871
