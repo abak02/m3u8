@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0 tvg-language="English" group-title="Sports", Channel 201
-http://otv.ftpbd.net/streams/201/index.m3u8
+http://test-otv2.ftpbd.net/streams/115/index.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", Channel 202
-http://otv.ftpbd.net/streams/202/index.m3u8
+http://test-otv2.ftpbd.net/streams/110/index.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", World Cup 2023 1
-http://otv.ftpbd.net/streams/203/index.m3u8
+http://test-otv2.ftpbd.net/streams/121/index.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", World Cup 2023 2
-http://otv.ftpbd.net/streams/204/index.m3u8
+http://test-otv2.ftpbd.net/streams/116/index.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", Channel 205
 http://otv.ftpbd.net/streams/205/index.m3u8
 #EXTINF:0 tvg-language="English" group-title="Sports", Channel 206
